@@ -541,11 +541,11 @@ PRU_ideas = {
  
 POR_ideas = {
 		start = {
-		development_cost = -0.1
+		advisor_cost = -0.10
 	}
 	
 	bonus = {
-		advisor_cost = -0.10
+		development_cost = -0.1
 	}
 	
 	trigger = {
@@ -555,17 +555,17 @@ POR_ideas = {
 	
 	legacy_of_the_navigator = {
 		envoy_travel_time = -0.50
-		range = 0.25
+		range = 0.50
 	}
 	land_before_faith = {
-		land_morale = 0.075
+		land_morale = 0.10
 	}
 	afonsine_ordinances = {
 		global_trade_goods_size_modifier = 0.1
 		production_efficiency = 0.10
 	}
 	case_de_india = {
-		heavy_ship_power = 0.1
+		heavy_ship_power = 0.20
 		global_sailors_modifier = 0.10
 	}
 	the_bandeirantes = {
@@ -1065,7 +1065,7 @@ NAP_ideas = {
 		global_ship_cost = -0.1
 	}
 	conquistidors = {
-		land_morale = 0.10
+		prestige = 1
 	}
 	italian medicines = {
 		discipline = 0.05
