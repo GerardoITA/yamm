@@ -4,6 +4,7 @@ government_rank = 1
 primary_culture = hessian
 religion = catholic
 technology_group = western
+elector = yes
 capital = 81	# Kassel
 
 
