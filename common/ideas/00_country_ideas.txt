@@ -391,7 +391,7 @@ FRA_ideas = {
 		diplomatic_upkeep = 1
 	}
 	elan = {
-		land_morale = 0.10	
+		land_morale = 0.15	
 	}
 	estates_general = {
 		global_tax_modifier = 0.1
@@ -558,7 +558,7 @@ POR_ideas = {
 		range = 0.25
 	}
 	land_before_faith = {
-		land_morale = 0.10
+		land_morale = 0.75
 	}
 	afonsine_ordinances = {
 		global_trade_goods_size_modifier = 0.1
@@ -1553,9 +1553,8 @@ BOH_ideas = {
 
 ITA_ideas = {
 	start = {
-		global_trade_power = 0.20
-		improve_relation_modifier = 0.50
-	}
+		global_trade_power = 0.1
+		discipline = 0.05
 	
 	bonus = {
 		defensiveness = 0.20
