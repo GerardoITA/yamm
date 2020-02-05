@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = danish
 religion = catholic
+elector = yes
 technology_group = western
 historical_friend = NOR
 capital = 12 #Sjaelland
