@@ -1248,8 +1248,8 @@ MLO_ideas = {
 	renaissance_prince = {
 		idea_cost = -0.1
 	}
-	patron_of_music = {
-		prestige = 1
+	patron_of_excellence = {
+		discipline = 0.05
 	}
 	lowered_power_of_barons = {
 		development_cost = -0.1
@@ -1264,7 +1264,7 @@ MLO_ideas = {
 		global_trade_power = 0.1
 	}
 	rulership_of_enlightened_principals = {
-		stability_cost_modifier = -0.1
+		advisor_cost = -0.10
 	}
 }
 
