@@ -545,7 +545,7 @@ POR_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		advisor_cost = -0.10
 	}
 	
 	trigger = {
@@ -558,7 +558,7 @@ POR_ideas = {
 		range = 0.25
 	}
 	land_before_faith = {
-		land_morale = 0.75
+		land_morale = 0.075
 	}
 	afonsine_ordinances = {
 		global_trade_goods_size_modifier = 0.1
@@ -1248,8 +1248,8 @@ MLO_ideas = {
 	renaissance_prince = {
 		idea_cost = -0.1
 	}
-	patron_of_music = {
-		prestige = 1
+	patron_of_excellence = {
+		discipline = 0.05
 	}
 	lowered_power_of_barons = {
 		development_cost = -0.1
@@ -1264,7 +1264,7 @@ MLO_ideas = {
 		global_trade_power = 0.1
 	}
 	rulership_of_enlightened_principals = {
-		stability_cost_modifier = -0.1
+		advisor_cost = -0.10
 	}
 }
 
@@ -1569,11 +1569,10 @@ ITA_ideas = {
 		stability_cost_modifier = -0.10
 	}
 	tradition_of_the_legion = {
-		infantry_power = 0.15
+		infantry_power = 0.20
 	}
 	mare_nostrum = {
-		galley_cost = -0.15
-		galley_power = 0.20
+		land_morale = 0.10
 	}
 	office_of_censor = {
 		global_manpower_modifier = 0.33
