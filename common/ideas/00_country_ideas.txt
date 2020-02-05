@@ -545,7 +545,7 @@ POR_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		advisor_cost = -0.10
 	}
 	
 	trigger = {
@@ -558,7 +558,7 @@ POR_ideas = {
 		range = 0.25
 	}
 	land_before_faith = {
-		land_morale = 0.75
+		land_morale = 0.075
 	}
 	afonsine_ordinances = {
 		global_trade_goods_size_modifier = 0.1
