@@ -1,15 +1,15 @@
 #1775 - Holstein
 
-owner = SHL
-controller = SHL
-add_core = SHL
-culture = hannoverian
+owner = DEN
+controller = DEN
+add_core = DEN
+culture = danish
 religion = catholic
 hre = yes
-base_tax = 4
-base_production = 4
+base_tax = 6
+base_production = 6
 trade_goods = livestock
-base_manpower = 2
+base_manpower = 4
 capital = "Kiel"
 is_city = yes
 discovered_by = eastern

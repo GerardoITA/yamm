@@ -1,15 +1,15 @@
 #Sönderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
 
-add_core = SHL
-owner = SHL
-controller = SHL
+add_core = DEN
+owner = DEN
+controller = DEN
 culture = danish
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
+base_tax = 6
+base_production = 6
 trade_goods = livestock
-base_manpower = 3
+base_manpower = 4
 capital = "Slesvig"
 is_city = yes
 discovered_by = eastern
