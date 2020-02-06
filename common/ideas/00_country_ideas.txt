@@ -935,7 +935,7 @@ HUN_ideas = {
 	bulwark_of_christianity = {
 		global_manpower_modifier = 0.2
 	}
-	found_the_black_army = {
+	coffee_is_a_negro = {
 		discipline = 0.05
 	}
 	reformed_coinage = {
