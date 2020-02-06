@@ -433,7 +433,7 @@ TUR_ideas = {
 		manpower_recovery_speed = 0.2
 	}		
 	timariot_system = {
-		cavalry_power = 0.15
+		cavalry_power = 0.20
 	}
 	autonmous_pashas = {
 		war_exhaustion_cost = -0.10
@@ -993,7 +993,7 @@ JAP_ideas = {
 MAM_ideas = {
 	start = {
 		trade_steering = 0.25
-		cavalry_power = 0.10
+		cavalry_power = 0.20
 	}
 	
 	bonus = {
