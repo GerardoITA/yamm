@@ -46,8 +46,8 @@ ENG_ideas = {
 
 GBR_ideas = {
 	start = {
-		naval_morale = 0.20
-		heavy_ship_power = 0.15
+		naval_morale = 0.10
+		heavy_ship_power = 0.10
 	}
 
 	bonus = {
@@ -60,7 +60,7 @@ GBR_ideas = {
 	free = yes		#will be added at load.
 
 	gbr_acts_of_union = {
-		diplomatic_annexation_cost = -0.15
+		infantry_power = 0.10
 		max_states = 3
 	}
 	city_upon_a_hill = {
