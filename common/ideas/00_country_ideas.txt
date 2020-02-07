@@ -216,7 +216,8 @@ SPA_ideas = {
 	}
 	
 	bonus = {
-		artillery_fire = 1
+		heavy_power = 0.1
+       artillery_power = 0.12
 	}
 	
 	trigger = {
@@ -232,7 +233,7 @@ SPA_ideas = {
 		colonists = 1
 	}
 	spanish_quality = {
-		discipline = 0.03
+		discipline = 0.05
 	}
 	spanish_armada = {
 		heavy_ship_power = 0.1
@@ -262,6 +263,7 @@ CAS_ideas = {
 		tag = CAS
 	}
 	free = yes		#will be added at load.
+
 	the_reconquista = {
 		army_tradition_decay = -0.01
 	}
