@@ -212,7 +212,7 @@ RUS_ideas = {
 SPA_ideas = {
 	start = {
 		land_morale = 0.15
-		global_manpower_modifier = 0.30
+		global_manpower_modifier = 0.15
 	}
 	
 	bonus = {
@@ -232,7 +232,7 @@ SPA_ideas = {
 		colonists = 1
 	}
 	spanish_quality = {
-		discipline = 0.05
+		discipline = 0.03
 	}
 	spanish_armada = {
 		heavy_ship_power = 0.1
@@ -253,7 +253,7 @@ SPA_ideas = {
 CAS_ideas = {
 	start = {
 		land_morale = 0.15
-		global_manpower_modifier = 0.30
+		global_manpower_modifier = 0.15
 	}
 	bonus = {
 		global_colonial_growth = 25
@@ -266,7 +266,7 @@ CAS_ideas = {
 		army_tradition_decay = -0.01
 	}
 	spanish_inquisition = {
-		discipline = 0.05
+		discipline = 0.03
 	}
 	cabildos = {
 		production_efficiency = 0.1
