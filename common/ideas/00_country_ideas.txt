@@ -539,7 +539,7 @@ PRU_ideas = {
  
 POR_ideas = {
 		start = {
-		advisor_cost = -0.10
+		trade_efficiency = 0.05
 	}
 	
 	bonus = {
@@ -563,7 +563,7 @@ POR_ideas = {
 		production_efficiency = 0.10
 	}
 	case_de_india = {
-		heavy_ship_power = 0.10
+		war_exhaustion = 0.02
 	}
 	the_bandeirantes = {
 		merchants = 1
@@ -608,7 +608,7 @@ POL_ideas = {
 		infantry_power = 0.1
 	}
 	winged_hussars = {
-		cavalry_power = 0.33
+		cavalry_power = 0.25
 		cav_to_inf_ratio = 0.10
 	}
 	wojsko_komputoe = {
