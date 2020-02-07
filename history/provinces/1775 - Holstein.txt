@@ -1,8 +1,8 @@
 #1775 - Holstein
 
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = DAN
+controller = DAN
+add_core = DAN
 culture = danish
 religion = catholic
 hre = yes
