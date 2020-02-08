@@ -628,7 +628,7 @@ POL_ideas = {
 
 HAB_ideas = {
 	start = {
-		land_morale = 0.15
+		land_morale = 0.10
 		improve_relation_modifier = 0.3
 	}
 	
@@ -1250,7 +1250,7 @@ MLO_ideas = {
 		idea_cost = -0.1
 	}
 	patron_of_excellence = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	lowered_power_of_barons = {
 		development_cost = -0.1
