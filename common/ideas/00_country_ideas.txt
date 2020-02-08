@@ -6341,6 +6341,7 @@ SHL_ideas = {
 HES_ideas = {
 	start = {
 		land_morale = 0.10
+		trade_efficiency = 0.05
 	}
 	bonus = {
 		merc_maintenance_modifier = -0.15
