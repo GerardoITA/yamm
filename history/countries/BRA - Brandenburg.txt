@@ -97,7 +97,7 @@ capital = 50	# Berlin
 		death_date = 1486.3.11
 		claim = 95
 		adm = 3
-		dip = 
+		dip = 2
 		mil = 4
 	}
 	set_country_flag = albrecht_achilles_flag
