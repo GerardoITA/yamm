@@ -2,11 +2,11 @@ reichsreform = {
 	empire = hre
 	member = {
 		build_cost = -0.05
-		development_cost = -0.15
+		development_cost = -0.05
 	}
 	emperor = {
 		build_cost = -0.05
-		development_cost = -0.20
+		development_cost = -0.05
 	}
 	on_effect = {
 		imperial_ban_allowed = yes
@@ -19,7 +19,7 @@ reichsreform = {
 reichsregiment = {
 	empire = hre
 	member = {
-		infantry_power = 0.15
+		global_tax_income = 12
 	}
 	emperor = {
 		diplomatic_reputation = 1
@@ -53,6 +53,7 @@ landfriede = {
 	empire = hre
 	member = {
 		technology_cost = -0.05
+		infantry_power = 0.15
 	}
 	emperor = {
 		prestige = 0.5
