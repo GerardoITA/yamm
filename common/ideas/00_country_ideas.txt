@@ -542,6 +542,7 @@ PRU_ideas = {
 POR_ideas = {
 		start = {
 		trade_efficiency = 0.05
+		trade_range_modifier = 0.20
 	}
 	
 	bonus = {
@@ -565,7 +566,7 @@ POR_ideas = {
 		production_efficiency = 0.10
 	}
 	case_de_india = {
-		war_exhaustion = 0.02
+		war_exhaustion = -0.02
 	}
 	the_bandeirantes = {
 		merchants = 1
