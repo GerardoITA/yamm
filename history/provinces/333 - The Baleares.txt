@@ -1,8 +1,8 @@
 #333 - The Baleares
 
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = CAS		# Alfons V of Aragon
+controller = CAS
+add_core = CAS
 add_core = MJO
 culture = catalan
 religion = catholic
