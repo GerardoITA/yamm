@@ -2,7 +2,6 @@ government = republic
 add_government_reform = oligarchy_reform
 government_rank = 2
 technology_group = western
-elector = yes
 religion = catholic
 primary_culture = swiss
 capital = 165 # Bern
