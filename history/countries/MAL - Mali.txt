@@ -29,9 +29,9 @@ religious_school = maliki_school
 		birth_date = 1370.1.1
 		death_date = 1450.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 

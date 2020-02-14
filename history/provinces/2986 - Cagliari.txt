@@ -1,17 +1,17 @@
 # - Cagliari
 
-owner = SAR
-controller = SAR
+owner = GEN
+controller = GEN
 culture = sardinian 
 religion = catholic 
-hre = no 
+hre = yes
 base_tax = 4
 base_production = 4
 trade_goods = copper
 base_manpower = 1
 capital = "Cagliari" 
 is_city = yes # Estimated 
-add_core = SAR
+add_core = GEN
 
 
 

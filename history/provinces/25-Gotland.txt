@@ -7,11 +7,11 @@ add_core = GOT
 #add_core = SWE
 culture = swedish
 religion = catholic
-hre = no
+hre = yes
 base_tax = 4 
 base_production = 4
 trade_goods = wool
-base_manpower = 2
+base_manpower = 3
  # Visborg Castle
 capital = "Visby"
 is_city = yes

@@ -2,7 +2,7 @@ reichsreform = {
 	empire = hre
 	member = {
 		build_cost = -0.05
-		development_cost = -0.10
+		development_cost = -0.05
 	}
 	emperor = {
 		build_cost = -0.05
@@ -19,7 +19,7 @@ reichsreform = {
 reichsregiment = {
 	empire = hre
 	member = {
-		infantry_power = 0.10
+		global_tax_income = 16
 	}
 	emperor = {
 		diplomatic_reputation = 1
@@ -31,11 +31,11 @@ hofgericht = {
 	empire = hre
 	member = {
 		legitimacy = 0.5
-		core_creation = -0.10
+		core_creation = -0.25
 	}
 	emperor = {
-		legitimacy = 0.5
-		core_creation = -0.10
+		legitimacy = 0.10
+		core_creation = -0.25
 	}
 }
 
@@ -53,6 +53,7 @@ landfriede = {
 	empire = hre
 	member = {
 		technology_cost = -0.05
+		infantry_power = 0.15
 	}
 	emperor = {
 		prestige = 0.5

@@ -23,7 +23,7 @@ aristocracy_ideas = {
 	}
 	
 	noble_knights = {
-		cavalry_power = 0.10
+		cavalry_power = 0.20
 		cavalry_cost = -0.10
 	}
 	military_traditions = {
@@ -85,7 +85,7 @@ plutocracy_ideas = {
 		merchants = 1
 	}
 	free_subjects = {
-		global_trade_goods_size_modifier = 0.1
+		global_trade_goods_size_modifier = 0.2
 	}
 	free_cities = {
 		caravan_power = 0.25
@@ -329,7 +329,7 @@ defensive_ideas = {
 		leader_land_manuever = 1
 	}
 	regimental_system = {
-		land_maintenance_modifier = -0.05
+		infantry_power = 0.1 
 	}
 	defensive_mentality = {
 		defensiveness = 0.2
@@ -339,7 +339,7 @@ defensive_ideas = {
 		reinforce_speed = 0.33
 	}
 	improved_foraging = {
-		land_attrition = -0.25
+		land_attrition = -0.35
 	}
 
 	ai_will_do = {
@@ -398,7 +398,7 @@ economic_ideas = {
 	category = ADM
 
 	bonus = {
-		development_cost = -0.2
+		development_cost = -0.1
 	}
 
 	bureaucracy = {
@@ -674,13 +674,13 @@ quality_ideas = {
 	}
 
 	private_to_marshal = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	quality_education = {
 		army_tradition = 1
 	}
 	finest_of_horses = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	escort_ships = {
 		ship_durability = 0.05
@@ -692,7 +692,7 @@ quality_ideas = {
 		naval_attrition = -0.25
 	}
 	massed_battery = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 
 	ai_will_do = {
@@ -744,7 +744,7 @@ expansion_ideas = {
  		max_states = 5
 	}
 
-	additional_colonists = {
+	extra_colonists = {
 		colonists = 1
 	}
 	additional_merchants = {
@@ -757,8 +757,8 @@ expansion_ideas = {
 		rival_border_fort_maintenance = -0.5
 		center_of_trade_upgrade_cost = -0.2
 	}
-	additional_diplomats = {
-		diplomatic_upkeep = 1
+	yet_another_colonist = {
+		colonists = 1
 	}
 	cultural_ties = {
 		num_accepted_cultures = 2

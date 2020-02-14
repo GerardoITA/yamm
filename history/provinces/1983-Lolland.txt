@@ -5,11 +5,11 @@ owner = DAN
 controller = DAN
 culture = danish
 religion = catholic
-hre = no
-base_tax = 3
-base_production = 3
+hre = yes
+base_tax = 5
+base_production = 4
 trade_goods = fish
-base_manpower = 2
+base_manpower = 3
 capital = "Nykobing"
 is_city = yes
 
