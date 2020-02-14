@@ -19,7 +19,7 @@ reichsreform = {
 reichsregiment = {
 	empire = hre
 	member = {
-		global_tax_income = 12
+		global_tax_income = 16
 	}
 	emperor = {
 		diplomatic_reputation = 1
