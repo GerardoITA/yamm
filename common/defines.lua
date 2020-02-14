@@ -418,7 +418,7 @@ NCountry = {
 	CORRUPTION_FROM_BANNERS = 5,
 
 
-	MONARCH_MIN_SKILL = 2,						-- Probably bad idea to reduce this
+	MONARCH_MIN_SKILL = 1,						-- Probably bad idea to reduce this
 	MONARCH_MAX_SKILL = 6,						-- Monarch skills will be chosen between MONARCH_MIN_SKILL and MONARCH_MAX_SKILL
 	ELECTIVE_LOCAL_MONARCH_MIN_BONUS = 0,		-- The minimum change that is applied to non-foreign heirs in elective monarchy
 	ELECTIVE_LOCAL_MONARCH_MAX_BONUS = 1,		-- The maximum change that is applied to non-foreign heirs in elective monarchy
@@ -432,7 +432,7 @@ NCountry = {
 
 
 	DISINHERIT_PRESTIGE_HIT = -50,
-	DISINHERIT_PRESTIGE_THRESHOLD = 0,
+	DISINHERIT_PRESTIGE_THRESHOLD = -10,
 
 	INSTITUTION_BONUS_FROM_IMP_DEVELOPMENT = 5,
 	INSTITUTION_CAP_IMP_DEVELOPMENT = 10,
