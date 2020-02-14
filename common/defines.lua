@@ -418,15 +418,15 @@ NCountry = {
 	CORRUPTION_FROM_BANNERS = 5,
 
 
-	MONARCH_MIN_SKILL = 0,						-- Probably bad idea to reduce this
+	MONARCH_MIN_SKILL = 2,						-- Probably bad idea to reduce this
 	MONARCH_MAX_SKILL = 6,						-- Monarch skills will be chosen between MONARCH_MIN_SKILL and MONARCH_MAX_SKILL
 	ELECTIVE_LOCAL_MONARCH_MIN_BONUS = 0,		-- The minimum change that is applied to non-foreign heirs in elective monarchy
 	ELECTIVE_LOCAL_MONARCH_MAX_BONUS = 1,		-- The maximum change that is applied to non-foreign heirs in elective monarchy
 	ELECTIVE_FOREIGN_MONARCH_MIN_BONUS = 0,		-- The minimum change that is applied to foreigns heirs in elective monarchy
 	ELECTIVE_FOREIGN_MONARCH_MAX_BONUS = 0,		-- The maximum change that is applied to foreigns heirs in elective monarchy
 	ABDICATE_LEGITIMACY_THRESHOLD = 50,
-	ABDICATE_AGE_THRESHOLD = 60,
-	ABDICATE_RULING_LENGTH_THRESHOLD = 20,
+	ABDICATE_AGE_THRESHOLD = 40,
+	ABDICATE_RULING_LENGTH_THRESHOLD = 10,
 	ABDICATE_LEGITIMACY_HIT = -20,
 	ABDICATE_PRESTIGE_HIT = -50,
 
@@ -698,7 +698,7 @@ NCountry = {
 	YEARS_OF_NATIONALISM = 30, 						-- _CDEF_YEARS_OF_NATIONALISM_; Years of Nationalism
 	YEARS_UNTIL_BROKEN = 2, 						-- _CDEF_YEARS_UNTIL_BROKEN_; Years until rebel held capital results in broken country.
 	BASE_HEIR_BIRTH = 120, 							-- _CDEF_BASE_HEIR_BIRTH_
-	AGE_OF_ADULTHOOD = 15, 							-- _CDEF_AGE_OF_ADULTHOOD_
+	AGE_OF_ADULTHOOD = 5, 							-- _CDEF_AGE_OF_ADULTHOOD_
 	MAX_QUEEN_AGE = 35,								-- You can't get a queen/prince older than this
 	MAX_EXTRA_PERSONALITIES = 2,					-- Number of personalities that can be gained except the one you get when turning 15.
 	FIRST_EXTRA_PERSONALITY = 10,					-- Number of years after inauguration that first extra personality is gained.
