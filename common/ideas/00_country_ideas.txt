@@ -21,7 +21,8 @@ ENG_ideas = {
 	
 	royal_navy = {
 			navy_tradition = 0.25
-			heavy_ship_power = 0.10
+			naval_morale = 0.1
+			heavy_ship_power = 0.1
 	}
 	eltham_ordinance = {
 			production_efficiency = 0.1
@@ -47,7 +48,7 @@ ENG_ideas = {
 GBR_ideas = {
 	start = {
 		naval_morale = 0.10
-		heavy_ship_power = 0.10
+		heavy_ship_power = 0.1
 	}
 
 	bonus = {
@@ -74,6 +75,7 @@ GBR_ideas = {
 	}
 	reform_of_comission_buying = {
 		discipline = 0.05
+		land_morale = 0.1
 	}
 	british_industrialization = {
 		global_trade_goods_size_modifier = 0.2
@@ -216,8 +218,7 @@ SPA_ideas = {
 	}
 	
 	bonus = {
-		heavy_power = 0.1
-       artillery_power = 0.12
+       		artillery_power = 0.10
 	}
 	
 	trigger = {
@@ -264,18 +265,18 @@ CAS_ideas = {
 	}
 	free = yes		#will be added at load.
 
+	inter_caetera = {
+		idea_claim_colonies = yes
+		colonists = 1
+	}
 	the_reconquista = {
 		army_tradition_decay = -0.01
-	}
-	spanish_inquisition = {
-		discipline = 0.03
 	}
 	cabildos = {
 		production_efficiency = 0.1
 	}
-	inter_caetera = {
-		idea_claim_colonies = yes
-		colonists = 1
+	spanish_inquisition = {
+		discipline = 0.03
 	}
 	infantas = {
 		diplomatic_reputation = 1
@@ -391,7 +392,7 @@ FRA_ideas = {
 		diplomatic_upkeep = 1
 	}
 	elan = {
-		land_morale = 0.15	
+		land_morale = 0.2	
 	}
 	estates_general = {
 		global_tax_modifier = 0.1
@@ -520,7 +521,7 @@ PRU_ideas = {
 		stability_cost_modifier = -0.1
 	}
 	army_professionalism = {
-		land_morale = 0.10
+		land_morale = 0.15
 	}	
 	noble_cadets = {
 		army_tradition_decay = -0.01
