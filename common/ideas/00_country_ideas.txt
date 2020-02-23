@@ -4618,8 +4618,7 @@ FIN_ideas = {
 
 ALB_ideas = {
 	start = {
-		land_morale = 0.30
-		discipline = 0.10		
+		build_cost = -0.1		
 	}
 	
 	bonus = {
