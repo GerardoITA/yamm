@@ -1,14 +1,14 @@
 #1867 - Freiburg
 
-owner = SAV
-controller = SAV
+owner = SWI
+controller = SWI
 culture = swiss
 religion = catholic
 capital = "Lausanne"
 trade_goods = livestock
 hre = yes
-base_tax = 4 
-base_production = 4
+base_tax = 7 
+base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = SAV
