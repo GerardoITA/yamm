@@ -1185,12 +1185,16 @@ maintained_forts = {
 }
 
 gov_rank_1 = {
+	free_leader_pool = 1
 }
 
 gov_rank_2 = {
+	free_leader_pool = 2
 }
 
 gov_rank_3 = {
+	diplomats = 1
+	free_leader_pool = 3
 }
 
 # for mod support...

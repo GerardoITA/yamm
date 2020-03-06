@@ -31,7 +31,13 @@ country_event = {
 
 		define_ruler = {
 			dynasty = Lancaster
+			culture = ROOT
+			religion = ROOT
+			adm = 4
+			dip = 4
+			mil = 4
 			age = 31
+			claim = 100
 		}
 		if = {
 			limit = {
@@ -65,7 +71,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = pretender_rebels
-					size = 3
+					size = 2
 					leader = "Richard York"
 					win = yes
 				}
@@ -85,7 +91,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = pretender_rebels
-					size = 3
+					size = 2
 					leader = "Richard York"
 					win = yes
 				}
@@ -100,6 +106,10 @@ country_event = {
 		define_ruler = {
 			dynasty = York
 			age = 31
+			adm = 4
+			dip = 4
+			mil = 4
+			claim = 100
 		}
 		if = {
 			limit = {
@@ -132,7 +142,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = pretender_rebels
-					size = 3
+					size = 2
 					leader = "Edward Lancaster"
 				}
 			}
@@ -151,7 +161,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = pretender_rebels
-					size = 3
+					size = 2
 					leader = "Edward Lancaster"
 				}
 			}
@@ -365,7 +375,7 @@ country_event = {
 	option = {		# These gifts should show our gratitude
 		name = war_of_the_roses.5.a
 		ai_chance = { factor = 50 }
-		add_years_of_income = -0.25
+		add_years_of_income = -0.05
 	}
 	option = {		# It is nothing but their duty
 		name = war_of_the_roses.5.b
@@ -904,7 +914,7 @@ country_event = {
 	option = {		# Order has finally been restored
 		name = war_of_the_roses.100.a
 		add_stability_or_adm_power = yes
-		add_prestige = 50
+		add_prestige = 75
 		hidden_effect = {
 			if = {
 				limit = {
